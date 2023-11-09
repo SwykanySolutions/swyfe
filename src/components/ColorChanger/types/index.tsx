@@ -1,0 +1,1 @@
+export type ImageThemeProps = { theme:string; }
